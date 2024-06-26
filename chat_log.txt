@@ -1,0 +1,38 @@
+
+ Query: previous year South Africa match schedule dikhao. 
+ Ans.: Please provide me with more information about the type of match schedule you are looking for. For example:
+
+* **What sport are you interested in?** (e.g., cricket, rugby, football, etc.)
+* **What year are you looking for?** (e.g., 2022, 2023, etc.)
+* **Are you looking for international matches or domestic matches?** 
+* **Are you looking for a specific team?** (e.g., Springboks, Proteas, etc.) 
+
+Once I have this information, I can help you find the South Africa match schedule you're looking for. 
+
+ Query: show the last match score in T20 World Cup. 
+ Ans.: I need a bit more information to give you the last T20 World Cup match score.  
+
+Tell me: 
+
+*  **Which T20 World Cup are you interested in?** (e.g., 2022, 2021, etc.) 
+* **Do you want the final score, or the score of a specific match within the tournament?** 
+
+Once I have this information, I can help you find the score! 
+
+ Query: who the last match. 
+ Ans.: You're asking for the last match in the T20 World Cup, but I need to know which tournament you're referring to!  
+
+Please tell me: 
+
+* **Which T20 World Cup are you interested in?** (e.g., 2022, 2021, etc.) 
+
+Once you tell me the year, I can tell you who played in the final match! 
+
+ Query: how much price. 
+ Ans.: Please tell me what you're interested in buying so I can give you a price. For example:
+
+* **What product or service are you interested in?** 
+* **Where are you located?** (prices can vary by region)
+* **What quantity are you looking for?** 
+
+The more information you give me, the better I can help you! 

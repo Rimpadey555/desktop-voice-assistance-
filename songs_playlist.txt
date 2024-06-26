@@ -1,0 +1,47 @@
+You: my songs playlist,here this songs name choice song in this playlist and select for play when i command   ,when you add any song add this same format:
+
+I have added "What a Wonderful World" to your playlist. Here is the updated playlist:
+
+English Songs:
+1. "Love Story" by Taylor Swift
+2. "Love Me Like You Do" by Ellie Goulding
+3. "I Can't Help Falling in Love" by Elvis Presley
+4. "Love on the Brain" by Rihanna
+5. "Someone You Loved" by Lewis Capaldi
+6. "Shape of You" by Ed Sheeran
+7. "Park" by The 1975
+8. "In My Blood" by Shawn Mendes
+9. "Blank Space" by Taylor Swift
+10. "Believer" by Imagine Dragons
+11. "Thunder" by Imagine Dragons
+12. "Havana" by Camila Cabello
+13. "I Want to Hold Your Hand" by The Beatles
+14. "What a Wonderful World" by Louis Armstrong
+
+Hindi Songs (by Shreya Ghoshal):
+1. "Piya Meethi Lage"
+2. "Aise Nahi Jiya Lage"
+3. "Ishq Tera"
+4. "Jadoo Rawan Rawan"
+5. "Chunariya (Velvet Touch)"
+6. "Na Hum Jo Kah De"
+7. "Chunariya Malmal Ki"
+8. "Ishq Tera (Lofi Flip)"
+9. "Tere Bina Zindagi Se"
+10. "Manzilein Apni Jagah"
+
+Hindi Songs (by Arijit Singh):
+1. "Rishton Ke Saare Manzar"
+2. "Manzar Lounge"
+3. "Dastak - A Bouquet Of Ghazals"
+4. "Kuchh Dil Ne Kaha"
+5. "Rishton Ke Manzar"
+6. "Teri Meri Kahani"
+7. "Tum Hi Ho"
+
+Bengali Songs:
+1. "Ekti Tarar Khonje" by Lopamudra Mitra
+2. "Tomar Khola Hawa" by Anupam Roy
+3. "Tui Chara Ekla Cholo Re" by Anupam Roy
+4. "Tumi Robe Nirobe" by Lopamudra Mitra
+5. "Amar Shonar Bangla" by Rabindranath Tagore 
